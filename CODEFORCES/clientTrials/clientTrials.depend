@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1571838199 source:/media/wasfey/ALL DATA/problemSolving/clientTrials/main.cpp
+	<iostream>
+	<sys/types.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+
